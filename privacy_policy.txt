@@ -1,9 +1,9 @@
 
-Privacy Policy
-Effective Date: 23 December, 2024
+Privacy Policy for Olo Invoicer App
+Effective Date: 01 January, 2025
 
 At OloInvoicer, we value your trust and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you 
-visit our website, https://oloinvoicer.com/, or use our services. Please read this policy carefully to understand our practices regarding your personal data and how we will treat it.
+visit our website, https://oloinvoicer.com, or use our services. Please read this policy carefully to understand our practices regarding your personal data and how we will treat it.
 
 1. Information We Collect
 We may collect and process the following categories of information:
@@ -60,7 +60,7 @@ We may revise this Privacy Policy to reflect changes in our practices or for leg
 10. Contact Us
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact us:
 Email: dotbdsolutionsltd@gmail.com
-Phone: 8809614501160
+Phone: (+880) 9614501160
 Mailing Address: SEL Trident Tower, 57 Naya Palton, Anjuman Mufidul Islam Road, 
                  Dhaka, Bangladesh.
 
